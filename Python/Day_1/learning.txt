@@ -1,0 +1,10 @@
+Day_1 Learnings
+
+✅ Printing
+✅ Commenting
+✅ Basic Debugging
+✅ Basic String manipulation
+✅ Variables
+✅ Inputting
+✅ Name errors
+✅ Syntax errors
