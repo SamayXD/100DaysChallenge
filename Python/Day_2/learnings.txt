@@ -1,0 +1,5 @@
+✅ Datatypes
+✅ Numbers
+✅ Operations
+✅ Type Conversion
+✅ F-strings
