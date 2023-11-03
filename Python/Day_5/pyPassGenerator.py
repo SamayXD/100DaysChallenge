@@ -32,4 +32,4 @@ for lit in range(0, len(tempPass)):
     
 print(f"Your password is : {mainPass}")
 
-#We CAN use shuffel() function!!!
+#We CAN use shuffle() function!!!
