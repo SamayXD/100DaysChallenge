@@ -15,3 +15,22 @@ about["Country"] = "INDIA"
 
 for things in about:
     print(about[things])
+    
+#Nesting
+travel_log = {
+    "France" : {
+        "cities_visited" : ["Paris", "Dijon"],
+        "Visits" : 12
+    },
+    "India" : {
+        "cities_visited" : ["Mumbai", "Pune"],
+        "Visits" : 100
+    }
+}
+
+# print(travel_log)
+# print(travel_log["France"])
+# print(travel_log["France"]["cities_visited"])
+
+# print(travel_log["India"]["cities_visited"])
+print(travel_log["India"]["Visits"])
