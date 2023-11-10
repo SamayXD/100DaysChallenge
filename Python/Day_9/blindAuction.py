@@ -16,10 +16,7 @@ def addBid():
                         "bid": bid})
 
         option = input("Do you want to add another? (y to continue) ")
-
-
 addBid()
-
 maxBidder = ""
 maxBet = 0
 for i in range(len(mainData)):
