@@ -38,4 +38,6 @@ Welcome to my 100 Days of Code journey with Python! This repository documents my
 ✨ Adding Clear Docstrings
 ## 🍪 Day 11: [Folder Link](https://github.com/SamayXD/100DaysChallenge/tree/master/Python/Day_11)
 ✅ Capstone Project: Build a Blackjack Game
-
+## 🍪 Day 12: [Folder Link](https://github.com/SamayXD/100DaysChallenge/tree/master/Python/Day_12)
+✅Understanding Scope in Python  
+✅ Made Guess the Number Game
