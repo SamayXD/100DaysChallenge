@@ -41,3 +41,7 @@ Welcome to my 100 Days of Code journey with Python! This repository documents my
 ## 🍪 Day 12: [Folder Link](https://github.com/SamayXD/100DaysChallenge/tree/master/Python/Day_12)
 ✅Understanding Scope in Python  
 ✅ Made Guess the Number Game
+## 🍪 Day 13: [Folder Link](https://github.com/SamayXD/100DaysChallenge/tree/master/Python/Day_13)
+✅ Solving Debugging Puzzles
+✅ Describing the Problem Effectively
+✨ Incremental Code Testing Approach
