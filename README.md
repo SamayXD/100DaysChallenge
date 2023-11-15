@@ -45,3 +45,5 @@ Welcome to my 100 Days of Code journey with Python! This repository documents my
 ✅ Solving Debugging Puzzles
 ✅ Describing the Problem Effectively
 ✨ Incremental Code Testing Approach
+## 🍪 Day 14: [Folder Link](https://github.com/SamayXD/100DaysChallenge/tree/master/Python/Day_14)
+✅ Constructing "Higher or Lower" Game
