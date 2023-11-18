@@ -1,5 +1,5 @@
-def tempFunction(a, b):
+def temp_function(a, b):
     print(a+b)
 
 
-tempFunction(3, 22)
+temp_function(3, 22)
