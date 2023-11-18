@@ -29,7 +29,6 @@ def compare():
     print(f"Compare B = {compareTwo['name']}, a {compareTwo['description']}, from {compareTwo['country']}.")
 
 
-            
 def doCompare():
     choice = input("Who has more followers? Type 'A' or 'B': ")
     
