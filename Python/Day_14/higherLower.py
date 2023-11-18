@@ -67,4 +67,3 @@ while not player_lost:
         os.system('cls' if os == 'nt' else 'clear')
         print(art.lost)
         player_lost = True
-        
