@@ -47,3 +47,7 @@ Welcome to my 100 Days of Code journey with Python! This repository documents my
 ✨ Incremental Code Testing Approach
 ## 🍪 Day 14: [Folder Link](https://github.com/SamayXD/100DaysChallenge/tree/master/Python/Day_14)
 ✅ Constructing "Higher or Lower" Game
+## 🍪 Day 15-16: [Folder Link](https://github.com/SamayXD/100DaysChallenge/tree/master/Python/Day_16)
+✅ Object-Oriented Programming (OOP)
+✅ Learning Streamlining Complex Projects 
+✨ Coffee Machine Project ☕️💻
